@@ -40,11 +40,10 @@ src/
 
 ## 📦 Tech Stack
 
-- React 18+
+- React 19
 - Vite
 - TypeScript
-- React Router DOM (v6)
-- ESLint + Prettier (optional setup)
+- React Router DOM (v7)
 
 ---
 
@@ -55,7 +54,7 @@ src/
 git clone https://github.com/naserrasoulii/feature-based-react
 
 # Install dependencies
-cd react-feature-base-boilerplate
+cd feature-based-react
 yarn
 
 # Start dev server
